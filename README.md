@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Prathu Vijayvargiya</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathuvj&label=Profile%20views&color=0e75b6&style=flat" alt="prathuvj" /> </p>
+
 # 💫 About Me:
 🔭 I’m currently working on multiple projects.<br>👯 I’m looking to collaborate on open-source projects related to machine learning.<br>🌱 I’m currently learning data analytics and machine learning.<br>💬 Ask me about<br>⚡ Fun fact<br>📫 How to reach me: vijayvargiyaprathu@gmail.com<br>😄 Pronouns: He/Him
 

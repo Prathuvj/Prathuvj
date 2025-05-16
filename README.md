@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prathu Vijayvargiya</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on multiple projects.<br>👯 I’m looking to collaborate on open-source projects related to machine learning.<br>🌱 I’m currently learning data analytics and machine learning.<br>💬 Ask me about<br>⚡ Fun fact<br>📫 How to reach me: vijayvargiyaprathu@gmail.com<br>😄 Pronouns: He/Him
+🔭 I’m currently working on multiple projects.<br>👯 I’m looking to collaborate on open-source projects related to machine learning.<br>🌱 I’m currently learning data analytics and machine learning.<br>📫 How to reach me: vijayvargiyaprathu@gmail.com<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:

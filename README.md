@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathu Vijayvargiya</h1>
+
 # 💫 About Me:
 🌱 I’m a final-year CSE student currently learning Advanced ML and DL<br><br>📫 How to reach me vijayvargiyaprathu@gmail.com
 
